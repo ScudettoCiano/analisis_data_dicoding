@@ -28,7 +28,7 @@ matplotlib==3.10.0
 ml-dtypes==0.4.1
 numpy>=1.23,<2.0
 opt_einsum==3.4.0
-packaging==24.0
+packaging>=16.8,<24
 pandas==2.2.3
 pillow==11.1.0
 protobuf<5,>=3.20
