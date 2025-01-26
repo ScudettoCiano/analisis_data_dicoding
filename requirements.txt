@@ -9,7 +9,7 @@ keras==3.7.0
 matplotlib==3.10.0
 numpy>=1.23,<2.0
 pandas==2.2.3
-protobuf==5.29.2
+protobuf<5,>=3.20
 scikit-learn==1.6.0
 scipy==1.15.0
 seaborn==0.13.2
